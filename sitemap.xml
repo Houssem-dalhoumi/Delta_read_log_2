@@ -2,17 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://myuser.github.io/Delta_Read_Log/getting-started/b/</loc>
+    <loc>https://databeans.github.io/Delta_Read_Log/</loc>
+    <lastmod>2021-11-09T14:33:40+01:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://databeans.github.io/Delta_Read_Log/getting-started/dir1/file1/</loc>
     <lastmod>2021-11-09T14:33:40+01:00</lastmod>
   </url><url>
-    <loc>https://myuser.github.io/Delta_Read_Log/</loc>
+    <loc>https://databeans.github.io/Delta_Read_Log/getting-started/file2/</loc>
     <lastmod>2021-11-09T14:33:40+01:00</lastmod>
   </url><url>
-    <loc>https://myuser.github.io/Delta_Read_Log/getting-started/</loc>
+    <loc>https://databeans.github.io/Delta_Read_Log/getting-started/c/</loc>
     <lastmod>2021-11-09T14:33:40+01:00</lastmod>
   </url><url>
-    <loc>https://myuser.github.io/Delta_Read_Log/categories/</loc>
+    <loc>https://databeans.github.io/Delta_Read_Log/getting-started/</loc>
+    <lastmod>2021-11-09T14:33:40+01:00</lastmod>
   </url><url>
-    <loc>https://myuser.github.io/Delta_Read_Log/tags/</loc>
+    <loc>https://databeans.github.io/Delta_Read_Log/categories/</loc>
+  </url><url>
+    <loc>https://databeans.github.io/Delta_Read_Log/tags/</loc>
   </url>
 </urlset>

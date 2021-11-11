@@ -2,18 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting starteds on Delta_Log_read</title>
-    <link>https://myuser.github.io/Delta_Read_Log/getting-started/</link>
+    <link>https://databeans.github.io/Delta_Read_Log/getting-started/</link>
     <description>Recent content in Getting starteds on Delta_Log_read</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Nov 2021 14:33:40 +0100</lastBuildDate><atom:link href="https://myuser.github.io/Delta_Read_Log/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Nov 2021 14:33:40 +0100</lastBuildDate><atom:link href="https://databeans.github.io/Delta_Read_Log/getting-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Delta read</title>
-      <link>https://myuser.github.io/Delta_Read_Log/getting-started/b/</link>
+      <title>1-Pre-Requisites</title>
+      <link>https://databeans.github.io/Delta_Read_Log/getting-started/dir1/file1/</link>
       <pubDate>Tue, 09 Nov 2021 14:33:40 +0100</pubDate>
       
-      <guid>https://myuser.github.io/Delta_Read_Log/getting-started/b/</guid>
-      <description>Start the file</description>
+      <guid>https://databeans.github.io/Delta_Read_Log/getting-started/dir1/file1/</guid>
+      <description>Start the file 1</description>
+    </item>
+    
+    <item>
+      <title>2-Setup</title>
+      <link>https://databeans.github.io/Delta_Read_Log/getting-started/file2/</link>
+      <pubDate>Tue, 09 Nov 2021 14:33:40 +0100</pubDate>
+      
+      <guid>https://databeans.github.io/Delta_Read_Log/getting-started/file2/</guid>
+      <description>Start the file 1</description>
+    </item>
+    
+    <item>
+      <title>3-Execute</title>
+      <link>https://databeans.github.io/Delta_Read_Log/getting-started/c/</link>
+      <pubDate>Tue, 09 Nov 2021 14:33:40 +0100</pubDate>
+      
+      <guid>https://databeans.github.io/Delta_Read_Log/getting-started/c/</guid>
+      <description>Start the file 1</description>
     </item>
     
   </channel>
